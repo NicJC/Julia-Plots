@@ -2,7 +2,7 @@
 
 Julia plots and data for the coronavirus
 
-Some data is available [here](https://github.com/NicJC/Julia-Plots/blob/main/data.csv)
+Some data is available [here](https://github.com/NicJC/Julia-Plots/blob/main/data.csv) :trollface:
 
 ![pic1](https://github.com/NicJC/Julia-Plots/blob/main/pointplot.svg)
 
