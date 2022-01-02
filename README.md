@@ -6,4 +6,4 @@ Some data is available [here](https://github.com/NicJC/Julia-Plots/blob/main/dat
 
 ![pic1](https://github.com/NicJC/Julia-Plots/blob/main/pointplot.svg)
 
-![pic2]()
+![pic2](https://github.com/NicJC/Julia-Plots/blob/main/pointplot2.svg)
